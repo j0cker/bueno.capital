@@ -29,6 +29,15 @@
 
 
             <div class="col-md-12 text-left">
+                <div style="margin-top: 20px; float: right;" class="">
+
+                  <img src="img/Artboard 1.png" />
+
+                  <img src="img/Artboard 2.png" />
+
+                  <img src="img/Artboard 4.png" />
+
+                </div>
                 <br /><br /><br />
                 <center><h1 style="font-weight: 900;">ZERO TO ONE</h1></center><br />
                 <center><h1 style="font-weight: 900;">BLOCKCHAIN DEVELOPMENT</h1></center><br /><br />
@@ -163,7 +172,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-              <img class="circle sombra" src="img/Artboard 6.png" alt="">
+              <img class="circle sombra" src="img/farhad.jpeg" alt="">
 
             </div>
 
