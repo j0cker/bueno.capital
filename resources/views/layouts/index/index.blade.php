@@ -25,7 +25,7 @@
       <div style="margin-top: 0px;" class="row">
 
 
-        <div style="background: url('img/background.png') repeat scroll center center / 1366px 639px; height: 400px;" class="col-xs-12 col-sm-12 col-md-12 text-center sombra">
+        <div style="background: url('img/blockchain-animation-V4.gif') repeat scroll 0px -30px / 1366px 638px; height: 400px;" class="col-xs-12 col-sm-12 col-md-12 text-center">
 
 
             <div class="col-md-12 text-left">
@@ -39,10 +39,10 @@
 
                 </div>
                 <br /><br /><br />
-                <center><h1 style="font-weight: 900;">ZERO TO ONE</h1></center><br />
-                <center><h1 style="font-weight: 900;">BLOCKCHAIN DEVELOPMENT</h1></center><br /><br />
+                <center><h1 style="font-weight: 900; color: black;">ZERO TO ONE</h1></center><br />
+                <center><h1 style="font-weight: 900; color: black;">BLOCKCHAIN DEVELOPMENT</h1></center><br /><br />
 
-                <img style="width: 200px;" src="img/Artboard 4_1.png" />
+                <img style="margin-top: 30px; width: 200px;" src="img/Artboard 4_1.png" />
 
             </div>
 
@@ -51,38 +51,38 @@
 
       </div>
 
-      <div style="margin-top: 40px;" class="row letrasMenu">
+      <div style="margin-top: 40px;" class="hidden-xs hidden-sm row letrasMenu">
 
-        <div class="hidden-xs hidden-sm col-md-1 col-lg-1 text-center">
+        <div class="hidden-xs col-sm-1 col-md-1 col-lg-1 text-center">
         </div>
 
-        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center">
+        <div class="aboutMenu hoverMenu col-xs-12 col-sm-2 col-md-2 col-lg-2 text-center">
 
             ABOUT
 
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center">
+        <div class="servicesMenu hoverMenu col-xs-12 col-sm-2 col-md-2 col-lg-2 text-center">
 
             SERVICES
 
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center">
+        <div class="projectsMenu hoverMenu col-xs-12 col-sm-2 col-md-2 col-lg-2 text-center">
 
-            MEDIA
+            PROJECTS
 
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center">
+        <div class="contactMenu hoverMenu col-xs-12 col-sm-2 col-md-2 col-lg-2 text-center">
 
             CONTACT US
 
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 text-center">
+        <div class="joinMenu hoverMenu col-xs-12 col-sm-2 col-md-2 col-lg-2 text-center">
 
             JOIN US
 
         </div>
 
-        <div class="hidden-xs hidden-sm col-md-1 col-lg-1 text-center">
+        <div class="hidden-xs col-sm-1 col-md-1 col-lg-1 text-center">
         </div>
 
       </div>
@@ -132,7 +132,9 @@
 
       <div style="margin-top: 40px;" class="row">
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center">
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
+
+        <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 text-center">
 
             <div class="row">
 
@@ -166,7 +168,7 @@
 
         </div>
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center">
+        <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 text-center">
 
           <div class="row">
 
@@ -200,7 +202,7 @@
 
         </div>
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center">
+        <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 text-center">
 
           <div class="row">
 
@@ -234,7 +236,7 @@
 
         </div>
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 text-center">
+        <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 text-center">
 
           <div class="row">
 
@@ -267,6 +269,42 @@
           </div>
 
         </div>
+
+        <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2 text-center">
+
+          <div class="row">
+
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+
+              <img style="" class="circle sombra" src="img/in123.jpeg" alt="">
+
+            </div>
+
+          </div>
+
+          <div style="margin-top: 20px;" class="row">
+
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 aboutLetrasTitulo azul">
+
+              ANISH MOHAMMED
+
+            </div>
+
+          </div>
+
+          <div style="margin-bottom: 20px;" class="row">
+
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 aboutLetras">
+
+              Strategic Advisor
+
+            </div>
+
+          </div>
+
+        </div>
+
+        <div class="hidden-xs hidden-sm col-md-1 col-lg-1"></div>
 
       </div>
 
@@ -390,9 +428,9 @@
 
         <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
 
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-4 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
 
-          <div style="border-radius: 10px; width: 200px; display: inline-block; padding-bottom: 10px; padding-top: 10px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
@@ -405,8 +443,8 @@
 
         <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
 
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-4 col-md-4 col-lg-2 text-center letrasTitulos azul">
-          <div style="border-radius: 10px; width: 200px; display: inline-block; padding-bottom: 10px; padding-top: 10px;" class="borderAzul text-center">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="color: black;font-weight: 500 !important; " class="">Bueno Capital<br />
             organizes </font><font style="font-weight: 500 !important; " class="azul2">Blockchain<br />
@@ -417,8 +455,8 @@
 
         <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
 
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-4 col-md-4 col-lg-2 text-center letrasTitulos azul">
-          <div style="border-radius: 10px; width: 200px; display: inline-block; padding-bottom: 10px; padding-top: 10px;" class="borderAzul text-center">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
             embarks on a </font><font style="font-weight: 500 !important; " class="azul2"><br />
@@ -429,17 +467,11 @@
 
         <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
 
-      </div>
-
-      <!--Segunda parte-->
-
-      <div style="margin-top: 60px;" class="row text-center">
-
         <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
 
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-4 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
 
-          <div style="border-radius: 10px; width: 200px; display: inline-block; padding-bottom: 10px; padding-top: 10px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
@@ -452,8 +484,8 @@
 
         <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
 
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-4 col-md-4 col-lg-2 text-center letrasTitulos azul">
-          <div style="border-radius: 10px; width: 200px; display: inline-block; padding-bottom: 10px; padding-top: 10px;" class="borderAzul text-center">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="color: black;font-weight: 500 !important; " class="">Bueno Capital<br />
             develops </font><font style="font-weight: 500 !important; " class="azul2">Latin American<br />
@@ -464,12 +496,13 @@
 
         <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
 
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-4 col-md-4 col-lg-2 text-center letrasTitulos azul">
-          <div style="border-radius: 10px; width: 200px; display: inline-block; padding-bottom: 10px; padding-top: 10px;" class="borderAzul text-center">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 30px;" class="borderAzul text-center">
 
-            <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital signs with<br />
-            Organizes </font><font style="font-weight: 500 !important; " class="azul2">CryptoHQ<br />
-            in Davos</font>
+            <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital signs with</font><br />
+            <font style="font-weight: 500 !important; " class="azul2">Berkley Blockchain Club</font><br />
+            <font style="font-weight: 500 !important; ">to deliver </font><font style="font-weight: 500 !important; " class="azul2">training and<br /></font>
+            <font style="font-weight: 500 !important; " class="azul2">workshops to UNAM</font>
 
           </div>
         </div>
@@ -478,11 +511,25 @@
 
       </div>
 
+
+
     </section>
+
+    <!--
 
     <section style="margin-top: 60px;" id="parnership">
 
       <div class="row">
+
+        <div style="margin-top: 0px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos azul">
+
+            PARTNERSHIP
+
+        </div>
+
+      </div>
+
+      <div style="margin-top: 60px;" class="row">
 
         <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
           <img style="max-width: 486px; width: 100%;" class="text-center" src="img/Artboard 19.png" alt="" />
@@ -530,9 +577,9 @@
 
       </div>
 
-    </section>
+    </section> -->
 
-    <section style="margin-top: 0px;" id="parnership">
+    <section style="margin-top: 0px;" id="joinUs">
 
       <div class="row">
 
@@ -577,7 +624,7 @@ you want to be a part of the Bueno Network.
 
     </section>
 
-    <section style="margin-top: 0px;" id="parnership">
+    <section style="margin-top: 0px;" id="contactUs">
 
       <div class="row">
 
@@ -609,7 +656,7 @@ you want to be a part of the Bueno Network.
 
         <div class="col-xs-12 col-sm-2 col-md-4 col-lg-4"></div>
 
-        <div class="col-xs-12 col-sm-6 col-md-3 col-lg-4 text-center">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center">
 
           <div style="padding: 0;" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 text-center">
 
@@ -636,6 +683,20 @@ you want to be a part of the Bueno Network.
         <div class="col-xs-12 col-sm-8 col-md-4 col-lg-4 text-center">
 
             <textarea placeholder="Comments" style="height: 200px;" class="form-control"></textarea>
+
+        </div>
+
+        <div class="col-xs-12 col-sm-2 col-md-4 col-lg-4"></div>
+
+      </div>
+
+      <div style="margin-top: 20px;" class="row">
+
+        <div class="col-xs-12 col-sm-2 col-md-4 col-lg-4"></div>
+
+        <div class="col-xs-12 col-sm-8 col-md-4 col-lg-4 text-center">
+
+          <button style="background-color: black;" class="btn btn-success">Submit</button>
 
         </div>
 

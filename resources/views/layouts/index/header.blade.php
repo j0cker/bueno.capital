@@ -67,6 +67,11 @@
         <!-- App functions and actions -->
         <script src="js/app.min.js"></script>
 
+        <!-- Menu -->
+        <link rel="stylesheet" href="css/menu/menu.css">
+        <script src="js/menu/global-functions-menu.js"></script>
+        <script src="js/menu/custom-menu.js"></script>
+
         {{-- Title --}}
 
         <title>@yield('title')</title>
@@ -78,6 +83,7 @@
         <!--Angular-->
 
         <script type="text/javascript">
+
         jQuery(document).ready(function ($) {
 
             var jssor_1_options = {
@@ -124,6 +130,53 @@
             $(window).bind("resize", ScaleSlider);
             $(window).bind("orientationchange", ScaleSlider);
             /*#endregion responsive code end*/
+
+
+        });
+
+
+        jQuery(document).ready(function ($){
+
+          $(".aboutMenu").click(function() {
+            var offset = 20; //Offset of 20px
+
+            $('html, body').animate({
+                scrollTop: $("#about").offset().top + offset
+            }, 2000);
+          });
+
+          $(".servicesMenu").click(function() {
+            var offset = 20; //Offset of 20px
+
+            $('html, body').animate({
+                scrollTop: $("#services").offset().top + offset
+            }, 2000);
+          });
+
+          $(".projectsMenu").click(function() {
+            var offset = 20; //Offset of 20px
+
+            $('html, body').animate({
+                scrollTop: $("#projects").offset().top + offset
+            }, 2000);
+          });
+
+          $(".contactMenu").click(function() {
+            var offset = 20; //Offset of 20px
+
+            $('html, body').animate({
+                scrollTop: $("#contactUs").offset().top + offset
+            }, 2000);
+          });
+
+          $(".joinMenu").click(function() {
+            var offset = 20; //Offset of 20px
+
+            $('html, body').animate({
+                scrollTop: $("#joinUs").offset().top + offset
+            }, 2000);
+          });
+
         });
 
         /*
@@ -148,6 +201,11 @@
         </script>
 
         <style>
+
+            .hoverMenu:hover{
+              color: #0b2b65 !important;
+            }
+
             /* jssor slider loading skin spin css */
             .jssorl-009-spin img {
                 animation-name: jssorl-009-spin;
@@ -225,8 +283,15 @@
             font-size: 20px;
           }
 
+          .gris{
+            font-weight: 900;
+            color: #e4e5e5 !important;
+            font-size: 20px;
+          }
+
           .circle{
             border-radius: 100%;
+            width: 150px;
           }
 
           .aboutLetrasTitulo{
