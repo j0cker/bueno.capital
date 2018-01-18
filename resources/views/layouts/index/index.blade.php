@@ -426,9 +426,7 @@
 
       <div style="margin-top: 60px;" class="row text-center">
 
-        <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
-
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
 
           <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
@@ -441,9 +439,7 @@
 
         </div>
 
-        <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
           <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="color: black;font-weight: 500 !important; " class="">Bueno Capital<br />
@@ -453,9 +449,7 @@
           </div>
         </div>
 
-        <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
           <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
@@ -465,11 +459,7 @@
           </div>
         </div>
 
-        <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
-
-        <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
-
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
 
           <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
@@ -482,9 +472,7 @@
 
         </div>
 
-        <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
           <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="color: black;font-weight: 500 !important; " class="">Bueno Capital<br />
@@ -494,9 +482,7 @@
           </div>
         </div>
 
-        <div class="hidden-xs hidden-sm hidden-md col-lg-1"></div>
-
-        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 col-lg-2 text-center letrasTitulos azul">
+        <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
           <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 30px;" class="borderAzul text-center">
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital signs with</font><br />
@@ -506,8 +492,6 @@
 
           </div>
         </div>
-
-        <div class="hidden-xs hidden-sm hidden-md col-lg-2"></div>
 
       </div>
 
