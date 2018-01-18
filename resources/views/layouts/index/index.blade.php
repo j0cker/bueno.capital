@@ -25,7 +25,7 @@
       <div style="margin-top: 0px;" class="row">
 
 
-        <div style="background: url('img/blockchain-animation-V4.gif') repeat scroll 0px -30px / 1366px 638px; height: 400px;" class="col-xs-12 col-sm-12 col-md-12 text-center">
+        <div style="background: url('img/blockchain-animation-V4.gif') no-repeat scroll 0px -30px / 1366px 638px; height: 600px;" class="col-xs-12 col-sm-12 col-md-12 text-center">
 
 
             <div class="col-md-12 text-left">
@@ -39,10 +39,12 @@
 
                 </div>
                 <br /><br /><br />
-                <center><h1 style="font-weight: 900; color: black;">ZERO TO ONE</h1></center><br />
-                <center><h1 style="font-weight: 900; color: black;">BLOCKCHAIN DEVELOPMENT</h1></center><br /><br />
+                <center style="margin-top: 120px;"><h1 style="font-size: 50px !important; font-weight: 900; color: black;">ZERO TO ONE</h1></center><br />
+                <center><h1 style="font-size: 50px !important; font-weight: 900; color: black;">BLOCKCHAIN DEVELOPMENT</h1></center><br /><br />
 
-                <img style="margin-top: 30px; width: 200px;" src="img/Artboard 4_1.png" />
+                <a href="http://bueno.capital">
+                  <img style="margin-top: 130px; width: 200px;" src="img/Artboard 4_1.png" />
+                </a>
 
             </div>
 
@@ -51,7 +53,7 @@
 
       </div>
 
-      <div style="margin-top: 40px;" class="hidden-xs hidden-sm row letrasMenu">
+      <div style="margin-top: 43px;" class="hidden-xs hidden-sm row letrasMenu">
 
         <div class="hidden-xs col-sm-1 col-md-1 col-lg-1 text-center">
         </div>
@@ -89,11 +91,11 @@
 
     </section>
 
-    <section id="about">
+    <section style="margin-top: 48px;" id="about" class="gris2">
 
       <div class="row">
 
-        <div style="margin-top: 40px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos">
+        <div style="margin-top: 45px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos">
 
             ABOUT
 
@@ -120,9 +122,13 @@
 
       </div>
 
+    </section>
+
+    <section id="team">
+
       <div class="row">
 
-        <div style="margin-top: 40px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos azul">
+        <div style="margin-top: 45px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos azul">
 
             MEET OUR TEAM
 
@@ -194,7 +200,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 aboutLetras">
 
-              Token Investment Advisor
+              Strategic Business Development
 
             </div>
 
@@ -228,7 +234,7 @@
 
             <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 aboutLetras">
 
-              Business Development
+              Token Investment Advisor
 
             </div>
 
@@ -314,7 +320,7 @@
 
       <div class="row">
 
-        <div style="margin-top: 40px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos azul">
+        <div style="margin-top: 45px;" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 text-center letrasTitulos azul">
 
             SERVICES
 
@@ -322,12 +328,12 @@
 
       </div>
 
-      <div class="hidden-xs" id="jssor_1" style="position:relative;margin:0 auto;top: 30px;left:0px;width:1080px;height:469px;overflow:hidden;visibility:hidden;">
+      <div class="hidden-xs" id="jssor_1" style="position:relative;margin:0 auto;top: 45px;left:0px;width:1200px;height:448px;overflow:hidden;visibility:hidden;">
 
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
-            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
+            <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/Artboard 8.png" />
         </div>
-        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1080px;height:469px;overflow:hidden;">
+        <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1200px;height:448px;overflow:hidden;">
             <div data-p="43.75">
                 <img data-u="image" src="img/Artboard 13.png" />
             </div>
@@ -356,15 +362,11 @@
             </div>
         </div>
 
-        <div data-u="arrowleft" class="jssora073" style="width:50px;height:50px;top:0px;left:30px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
-            <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                <path class="a" d="M4037.7,8357.3l5891.8,5891.8c100.6,100.6,219.7,150.9,357.3,150.9s256.7-50.3,357.3-150.9 l1318.1-1318.1c100.6-100.6,150.9-219.7,150.9-357.3c0-137.6-50.3-256.7-150.9-357.3L7745.9,8000l4216.4-4216.4 c100.6-100.6,150.9-219.7,150.9-357.3c0-137.6-50.3-256.7-150.9-357.3l-1318.1-1318.1c-100.6-100.6-219.7-150.9-357.3-150.9 s-256.7,50.3-357.3,150.9L4037.7,7642.7c-100.6,100.6-150.9,219.7-150.9,357.3C3886.8,8137.6,3937.1,8256.7,4037.7,8357.3 L4037.7,8357.3z"></path>
-            </svg>
+        <div data-u="arrowleft" class="jssora073" style="width:50px;height:50px;top:0px;left:0px;" data-autocenter="2" data-scale="0.75" data-scale-left="0.75">
+            <img src="img/Artboard 8.png">
         </div>
-        <div data-u="arrowright" class="jssora073" style="width:50px;height:50px;top:0px;right:30px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
-            <svg viewbox="0 0 16000 16000" style="position:absolute;top:0;left:0;width:100%;height:100%;">
-                <path class="a" d="M11962.3,8357.3l-5891.8,5891.8c-100.6,100.6-219.7,150.9-357.3,150.9s-256.7-50.3-357.3-150.9 L4037.7,12931c-100.6-100.6-150.9-219.7-150.9-357.3c0-137.6,50.3-256.7,150.9-357.3L8254.1,8000L4037.7,3783.6 c-100.6-100.6-150.9-219.7-150.9-357.3c0-137.6,50.3-256.7,150.9-357.3l1318.1-1318.1c100.6-100.6,219.7-150.9,357.3-150.9 s256.7,50.3,357.3,150.9l5891.8,5891.8c100.6,100.6,150.9,219.7,150.9,357.3C12113.2,8137.6,12062.9,8256.7,11962.3,8357.3 L11962.3,8357.3z"></path>
-            </svg>
+        <div data-u="arrowright" class="jssora073" style="width:50px;height:50px;top:0px;right:0px;" data-autocenter="2" data-scale="0.75" data-scale-right="0.75">
+            <img src="img/Artboard 9.png">
         </div>
       </div>
 
@@ -424,11 +426,11 @@
 
       </div>
 
-      <div style="margin-top: 60px;" class="row text-center">
+      <div style="margin-top: 25px;" class="row text-center">
 
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
 
-          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
@@ -440,7 +442,7 @@
         </div>
 
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
-          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="color: black;font-weight: 500 !important; " class="">Bueno Capital<br />
             organizes </font><font style="font-weight: 500 !important; " class="azul2">Blockchain<br />
@@ -450,7 +452,7 @@
         </div>
 
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
-          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
             embarks on a </font><font style="font-weight: 500 !important; " class="azul2"><br />
@@ -461,7 +463,7 @@
 
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
 
-          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital<br />
@@ -473,7 +475,7 @@
         </div>
 
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
-          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 35px;" class="borderAzul text-center">
 
             <font style="color: black;font-weight: 500 !important; " class="">Bueno Capital<br />
             develops </font><font style="font-weight: 500 !important; " class="azul2">Latin American<br />
@@ -483,7 +485,7 @@
         </div>
 
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
-          <div style="height: 150px; border-radius: 10px; width: 300px; display: inline-block; padding-bottom: 10px; padding-top: 30px;" class="borderAzul text-center">
+          <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 30px;" class="borderAzul text-center">
 
             <font style="font-weight: 500 !important; color: black;" class="">Bueno Capital signs with</font><br />
             <font style="font-weight: 500 !important; " class="azul2">Berkley Blockchain Club</font><br />
@@ -626,9 +628,9 @@ you want to be a part of the Bueno Network.
 
         <div class="col-xs-12 col-sm-8 col-md-4 col-lg-4 text-center">
 
-            <input placeholder="Name" type="text" name="" value="" class="form-control"><br />
+            <input placeholder="Name" type="text" name="name" value="" class="form-control"><br />
 
-            <input placeholder="Email" type="text" name="" value="" class="form-control"><br />
+            <input placeholder="Email" type="text" name="email" value="" class="form-control"><br />
 
         </div>
 
@@ -642,15 +644,15 @@ you want to be a part of the Bueno Network.
 
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 text-center">
 
-          <div style="padding: 0;" class="col-xs-12 col-sm-8 col-md-8 col-lg-8 text-center">
+          <div style="padding: 0;" class="col-xs-9 col-sm-8 col-md-8 col-lg-8 text-center">
 
-            <input placeholder="File" type="text" name="" value="" class="form-control"><br />
+            <input placeholder="File" type="text" name="file" value="" class="form-control"><br />
 
           </div>
 
-          <div style="padding: 0;" class="col-xs-12 col-sm-4 col-md-4 col-lg-4 text-center">
+          <div style="padding-left: 10px; padding-right: 0;" class="col-xs-3 col-sm-4 col-md-4 col-lg-4 text-center">
 
-            <button style="background-color: black;" class="btn btn-success">attach</button>
+            <button style="width: 100%; background-color: black;" class="btn btn-success">attach</button>
 
           </div>
 
@@ -666,7 +668,7 @@ you want to be a part of the Bueno Network.
 
         <div class="col-xs-12 col-sm-8 col-md-4 col-lg-4 text-center">
 
-            <textarea placeholder="Comments" style="height: 200px;" class="form-control"></textarea>
+            <textarea name="comments" placeholder="Comments" style="height: 200px;" class="form-control"></textarea>
 
         </div>
 
@@ -680,7 +682,7 @@ you want to be a part of the Bueno Network.
 
         <div class="col-xs-12 col-sm-8 col-md-4 col-lg-4 text-center">
 
-          <button style="background-color: black;" class="btn btn-success">Submit</button>
+          <button onclick="submit()" id="submit" name="submit" style="background-color: black;" class="btn btn-success">Submit</button>
 
         </div>
 

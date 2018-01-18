@@ -91,8 +91,8 @@
               //$AutoPlaySteps: 1,
 
               //$SlideDuration: 160,
-              $SlideWidth: 356,
-              $SlideSpacing: 1, //cuantos recorren
+              $SlideWidth: 325,
+              $SlideSpacing: 110, //cuantos recorren
               $Cols: 3,
               $Align: 1,
               $ArrowNavigatorOptions: {
@@ -109,7 +109,7 @@
 
             /*#region responsive code begin*/
 
-            var MAX_WIDTH_1 = 1080
+            var MAX_WIDTH_1 = 1200
             function ScaleSlider() {
 
                 var containerElement = jssor_1_slider.$Elmt.parentNode;
@@ -200,6 +200,14 @@
 
         </script>
 
+        <script type="text/javascript">
+
+          function submit(){
+            console.log("[header.blade.php] submit");
+          }
+
+        </script>
+
         <style>
 
             .hoverMenu:hover{
@@ -261,10 +269,11 @@
           .parrafos{
             color: black;
             font-size: 13px;
+            padding: 0px 10% 40px 10% !important;
           }
 
           .borderAzul{
-            border: 2px solid #547cfd;
+            border: 3px solid #547cfd;
           }
 
           .borderAzul2{
@@ -289,13 +298,17 @@
             font-size: 20px;
           }
 
+          .gris2{
+            background-color: rgba(245, 243, 243,0.7) !important;
+          }
+
           .circle{
             border-radius: 100%;
-            width: 150px;
+            width: 136px;
           }
 
           .aboutLetrasTitulo{
-            font-size: 14px;
+            font-size: 12px;
 
           }
 

@@ -15,7 +15,8 @@
     <div class="site-footer-bottom module module-mini text-center">
         <div data-css-opacity=".12" class="cover-absolute bg-black" style="opacity: 0.12;"></div>
         <div class="container">
-            <p class="mb-0 text-center">All rights reserved 2017 Bueno.capital</p>
+            <p class="mb-0 text-center">All rights reserved 2017 Bueno.capital</p><br />
+            <p class="mb-0 text-center">Terms & Conditions</p><br />
         </div>
     </div>
 </div><!--Fin siteFooter-->
