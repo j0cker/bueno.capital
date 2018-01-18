@@ -328,6 +328,18 @@
 
       </div>
 
+      <div style="display: block !important; text-align: center !important; margin-top: 45px;" class="hidden-sm hidden-md hidden-lg w3-content w3-display-container">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 13.png" style="text-align: center; display: inline-block !important; width: 230px;">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 14.png" style="text-align: center; display: inline-block !important; width: 230px;">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 16.png" style="text-align: center; display: inline-block !important; width: 230px;">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 17.png" style="text-align: center; display: inline-block !important; width: 230px;">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 18.png" style="text-align: center; display: inline-block !important; width: 230px;">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 21.png" style="text-align: center; display: inline-block !important; width: 230px;">
+
+        <img src="img/Artboard 8.png" class="w3-button w3-display-left hidden-sm hidden-md hidden-lg" onclick="plusDivs(-1)" />
+        <img src="img/Artboard 9.png" class="w3-button w3-display-right hidden-sm hidden-md hidden-lg " onclick="plusDivs(1)" />
+      </div>
+
       <div class="hidden-xs" id="jssor_1" style="position:relative;margin:0 auto;top: 45px;left:0px;width:1200px;height:448px;overflow:hidden;visibility:hidden;">
 
         <div data-u="loading" class="jssorl-009-spin" style="position:absolute;top:0px;left:0px;width:100%;height:100%;text-align:center;background-color:rgba(0,0,0,0.7);">
@@ -370,45 +382,6 @@
         </div>
       </div>
 
-      <div style="margin-top: 40px;" class="row hidden-sm hidden-md hidden-lg text-center">
-
-        <div class="col-xs-12 text-center">
-
-          <img data-u="image" src="img/Artboard 13.png" />
-
-        </div>
-
-        <div class="col-xs-12 text-center">
-
-          <img data-u="image" src="img/Artboard 14.png" />
-
-        </div>
-
-        <div class="col-xs-12 text-center">
-
-          <img data-u="image" src="img/Artboard 16.png" />
-
-        </div>
-
-        <div class="col-xs-12 text-center">
-
-          <img data-u="image" src="img/Artboard 17.png" />
-
-        </div>
-
-        <div class="col-xs-12 text-center">
-
-          <img data-u="image" src="img/Artboard 18.png" />
-
-        </div>
-
-        <div class="col-xs-12 text-center">
-
-          <img data-u="image" src="img/Artboard 21.png" />
-
-        </div>
-
-      </div>
 
     </section>
 
