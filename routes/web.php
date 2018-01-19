@@ -13,3 +13,5 @@
 
 
 Route::get('/', 'Index@index');
+
+Route::get('/terms', 'Index@terms');

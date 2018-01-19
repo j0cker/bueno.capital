@@ -25,10 +25,10 @@
       <div style="margin-top: 0px;" class="row">
 
 
-        <div style="background: url('img/blockchain-animation-V4.gif') no-repeat scroll 0px -30px / 1366px 638px; height: 600px;" class="col-xs-12 col-sm-12 col-md-12 text-center">
+        <div style="background: url('img/blockchain-animation-V4.gif') no-repeat scroll 0px -20px / 1650px 694px; height: 600px;" class="col-xs-12 col-sm-12 col-md-12 text-center">
 
 
-            <div style="padding: 0;" class="col-md-12 text-left">
+            <div style="" class="col-md-12 text-left">
                 <div style="margin-top: 20px; float: right;" class="">
 
                   <img src="img/Artboard 1.png" />
@@ -589,7 +589,7 @@ you want to be a part of the Bueno Network.
 
     </section>
 
-    <section style="margin-top: 0px;" id="contactUs">
+    <section style="background: url('img/fondo-particles.png') no-repeat center center / 1044px 564px; margin-top: 0px;" id="contactUs">
 
       <div class="row">
 

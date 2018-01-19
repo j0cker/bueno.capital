@@ -34,4 +34,18 @@ class Index extends Controller
 
      return $date;
    }
+
+   public function terms(){
+     Log::info('[Terms]');
+
+      $title = "Terms and Conditions";
+      $lang = $this->getLanguage();
+
+      //$lang = Config::get('app.locale');
+      //$lang = App::getLocale();
+      //$lang = Lang::getLocale();
+      return view('layouts.terms.index',["title" => $title, "lang" => $lang]);
+
+   }
+
 }
