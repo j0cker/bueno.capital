@@ -28,7 +28,7 @@
         <div style="background: url('img/blockchain-animation-V4.gif') no-repeat scroll 0px -30px / 1366px 638px; height: 600px;" class="col-xs-12 col-sm-12 col-md-12 text-center">
 
 
-            <div class="col-md-12 text-left">
+            <div style="padding: 0;" class="col-md-12 text-left">
                 <div style="margin-top: 20px; float: right;" class="">
 
                   <img src="img/Artboard 1.png" />
@@ -39,11 +39,13 @@
 
                 </div>
                 <br /><br /><br />
-                <center style="margin-top: 120px;"><h1 style="font-size: 50px !important; font-weight: 900; color: black;">ZERO TO ONE</h1></center><br />
-                <center><h1 style="font-size: 50px !important; font-weight: 900; color: black;">BLOCKCHAIN DEVELOPMENT</h1></center><br /><br />
-
+                <center class="hidden-xs" style="margin-top: 120px;"><h1 style="font-size: 46px !important; font-weight: 900; color: black;">ZERO TO ONE</h1></center><br />
+                <center class="hidden-xs"><h1 style="font-size: 46px !important; font-weight: 900; color: black;">BLOCKCHAIN <div style="margin-top: 30px;" class="hidden-sm hidden-md hidden-lg"></div>DEVELOPMENT</h1></center><br /><br />
+                <center class="hidden-sm hidden-md hidden-lg" style="margin-top: 50px;"><h1 style="font-size: 36px !important; font-weight: 900; color: black;">ZERO TO ONE</h1></center><br />
+                <center class="hidden-sm hidden-md hidden-lg"><h1 style="font-size: 36px !important; font-weight: 900; color: black;">BLOCKCHAIN <div style="margin-top: 30px;" class="hidden-sm hidden-md hidden-lg"></div>DEVELOPMENT</h1></center><br /><br />
+                <div style="margin-top: 40px;" class="hidden-xs"></div>
                 <a href="http://bueno.capital">
-                  <img style="margin-top: 130px; width: 200px;" src="img/Artboard 4_1.png" />
+                  <img style="margin-top: 35px; width: 200px;" src="img/Artboard 4_1.png" />
                 </a>
 
             </div>
