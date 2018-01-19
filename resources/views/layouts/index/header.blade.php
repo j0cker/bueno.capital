@@ -29,6 +29,11 @@
         <script src="js/jquery.scrollbar.min.js"></script>
         <script src="js/jquery-scrollLock.min.js"></script>
 
+        <!--animation-->
+        <script src="js/animate.js"></script>
+        <script src="js/tweetMax.js"></script>
+
+
         <script src="js/salvattore.min.js"></script>
         <script src="js/jquery.flot.js"></script>
         <script src="js/jquery.flot.resize.js"></script>
@@ -202,6 +207,12 @@
         </script>
 
         <script type="text/javascript">
+
+          jQuery(document).ready(function ($){
+
+            $(document).animateScroll();
+
+          });
 
           var slideIndex = 1;
           jQuery(document).ready(function ($){

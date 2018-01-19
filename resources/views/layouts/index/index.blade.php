@@ -146,7 +146,7 @@
 
               <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
 
-                <img class="circle sombra" src="img/Artboard 11.png" alt="">
+                <img data-animate-scroll='{"scaleX": "1.1","scaleY": "1.1","rotation": "-2","alpha": "1", "duration": "0.5"}' class="circle sombra" src="img/Artboard 11.png" alt="">
 
               </div>
 
@@ -329,7 +329,7 @@
       </div>
 
       <div style="display: block !important; text-align: center !important; margin-top: 45px;" class="hidden-sm hidden-md hidden-lg w3-content w3-display-container">
-        <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 13.png" style="text-align: center; display: inline-block !important; width: 230px;">
+        <img class="hidden-sm hidden-md hidden-lg mySlides text-center bounce" src="img/Artboard 13.png" style="text-align: center; display: inline-block !important; width: 230px;">
         <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 14.png" style="text-align: center; display: inline-block !important; width: 230px;">
         <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 16.png" style="text-align: center; display: inline-block !important; width: 230px;">
         <img class="hidden-sm hidden-md hidden-lg mySlides text-center" src="img/Artboard 17.png" style="text-align: center; display: inline-block !important; width: 230px;">
@@ -347,7 +347,7 @@
         </div>
         <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:1200px;height:448px;overflow:hidden;">
             <div data-p="43.75">
-                <img data-u="image" src="img/Artboard 13.png" />
+                <img class="bounce" data-u="image" src="img/Artboard 13.png" />
             </div>
             <div data-p="43.75">
                 <img data-u="image" src="img/Artboard 14.png" />
@@ -457,6 +457,8 @@
           </div>
         </div>
 
+        <!--
+
         <div style="margin-top: 20px;" class="col-xs-12 col-sm-6 col-md-4 text-center letrasTitulos azul">
           <div style="height: 150px; border-radius: 10px; width: 325px; display: inline-block; padding-bottom: 10px; padding-top: 30px;" class="borderAzul text-center">
 
@@ -467,6 +469,8 @@
 
           </div>
         </div>
+
+      -->
 
       </div>
 
