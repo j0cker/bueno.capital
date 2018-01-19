@@ -15,11 +15,8 @@
                 <div class="mobile_nav closed">
                     <span class="select_page">Select Page</span>
                     <span style="padding-bottom: 18px; padding-top: 6px;" class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-                    <ul id="mobile_menu" class="et_mobile_menu" style="display: none;"><li id="menu-item-410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2 current_page_item menu-item-410 et_first_mobile_item"><a href="http://blockchain.capital/">ABOUT</a></li>
-                        <li id="menu-item-229" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-229"><a href="http://blockchain.capital/team/">TEAM</a></li>
-                        <li id="menu-item-230" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-230"><a href="http://blockchain.capital/portfolio/">PORTFOLIO</a></li>
-                        <li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="http://blockchain.capital/press/">PRESS</a></li>
-                        <li id="menu-item-303" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-303"><a href="http://blockchain.capital/contact/">CONTACT</a></li>
+                    <ul id="mobile_menu" class="et_mobile_menu" style="display: none;">
+                      <li style="padding-right: 0;"><a class="aboutMenu ahover" style="color: black;" href="/">HOME</a></li>
                     </ul>
                 </div>
             </div>
